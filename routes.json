@@ -111,10 +111,6 @@
         "origin": "KVNY",
         "destination": "KSFO"
     },
-    "KSUSKSUS": {
-        "origin": "KSUS",
-        "destination": "KSUS"
-    },
     "KLASKVNY": {
         "origin": "KLAS",
         "destination": "KVNY"
@@ -138,10 +134,6 @@
     "KOPFMBPV": {
         "origin": "KOPF",
         "destination": "MBPV"
-    },
-    "KHIOKHIO": {
-        "origin": "KHIO",
-        "destination": "KHIO"
     },
     "KSDLKTRM": {
         "origin": "KSDL",
@@ -874,10 +866,6 @@
     "MMGLKSAN": {
         "origin": "MMGL",
         "destination": "KSAN"
-    },
-    "KSWFKSWF": {
-        "origin": "KSWF",
-        "destination": "KSWF"
     },
     "KFLGKCHS": {
         "origin": "KFLG",
@@ -2235,10 +2223,6 @@
         "origin": "KATL",
         "destination": "KLAX"
     },
-    "KOPFKOPF": {
-        "origin": "KOPF",
-        "destination": "KOPF"
-    },
     "KHOUMMTO": {
         "origin": "KHOU",
         "destination": "MMTO"
@@ -3531,10 +3515,6 @@
         "origin": "KLAS",
         "destination": "KSMF"
     },
-    "KCIDKCID": {
-        "origin": "KCID",
-        "destination": "KCID"
-    },
     "KTRKKCOD": {
         "origin": "KTRK",
         "destination": "KCOD"
@@ -3795,10 +3775,6 @@
         "origin": "KSMF",
         "destination": "KMIA"
     },
-    "KOSHKOSH": {
-        "origin": "KOSH",
-        "destination": "KOSH"
-    },
     "KFTYKHOU": {
         "origin": "KFTY",
         "destination": "KHOU"
@@ -4038,10 +4014,6 @@
     "KSFOKPNS": {
         "origin": "KSFO",
         "destination": "KPNS"
-    },
-    "KBTLKBTL": {
-        "origin": "KBTL",
-        "destination": "KBTL"
     },
     "KGVLKSGJ": {
         "origin": "KGVL",
@@ -5755,10 +5727,6 @@
         "origin": "KFDK",
         "destination": "KROC"
     },
-    "KOKCKOKC": {
-        "origin": "KOKC",
-        "destination": "KOKC"
-    },
     "KJWNKBNA": {
         "origin": "KJWN",
         "destination": "KBNA"
@@ -5770,10 +5738,6 @@
     "KSATKDOV": {
         "origin": "KSAT",
         "destination": "KDOV"
-    },
-    "KFRGKFRG": {
-        "origin": "KFRG",
-        "destination": "KFRG"
     },
     "07FAKHOU": {
         "origin": "07FA",
@@ -6001,10 +5965,6 @@
     },
     "KCQFKTEB": {
         "origin": "KCQF",
-        "destination": "KTEB"
-    },
-    "KTEBKTEB": {
-        "origin": "KTEB",
         "destination": "KTEB"
     },
     "SKBOKTZR": {
@@ -8115,10 +8075,6 @@
         "origin": "KOSH",
         "destination": "KSDL"
     },
-    "KPAEKPAE": {
-        "origin": "KPAE",
-        "destination": "KPAE"
-    },
     "KSFOKAPA": {
         "origin": "KSFO",
         "destination": "KAPA"
@@ -8178,10 +8134,6 @@
     "KBJCKRWL": {
         "origin": "KBJC",
         "destination": "KRWL"
-    },
-    "KSJCKSJC": {
-        "origin": "KSJC",
-        "destination": "KSJC"
     },
     "KPHXKCNO": {
         "origin": "KPHX",
@@ -8842,10 +8794,6 @@
     "KMSPKBFI": {
         "origin": "KMSP",
         "destination": "KBFI"
-    },
-    "TXKFTXKF": {
-        "origin": "TXKF",
-        "destination": "TXKF"
     },
     "KCHSKSAV": {
         "origin": "KCHS",
@@ -11303,10 +11251,6 @@
         "origin": "KCMA",
         "destination": "KBNA"
     },
-    "KTPAKTPA": {
-        "origin": "KTPA",
-        "destination": "KTPA"
-    },
     "KRVSKTYR": {
         "origin": "KRVS",
         "destination": "KTYR"
@@ -12095,10 +12039,6 @@
         "origin": "KBFI",
         "destination": "KSEA"
     },
-    "KORLKORL": {
-        "origin": "KORL",
-        "destination": "KORL"
-    },
     "KFTWKMCO": {
         "origin": "KFTW",
         "destination": "KMCO"
@@ -12470,10 +12410,6 @@
     "KJBRKADS": {
         "origin": "KJBR",
         "destination": "KADS"
-    },
-    "KDALKDAL": {
-        "origin": "KDAL",
-        "destination": "KDAL"
     },
     "KPTKKORD": {
         "origin": "KPTK",
@@ -12859,10 +12795,6 @@
         "origin": "KEGE",
         "destination": "5B2"
     },
-    "KTPLKTPL": {
-        "origin": "KTPL",
-        "destination": "KTPL"
-    },
     "KMQJKMGW": {
         "origin": "KMQJ",
         "destination": "KMGW"
@@ -12870,10 +12802,6 @@
     "KDTWCYYC": {
         "origin": "KDTW",
         "destination": "CYYC"
-    },
-    "KFXEKFXE": {
-        "origin": "KFXE",
-        "destination": "KFXE"
     },
     "KPSPKSJC": {
         "origin": "KPSP",
@@ -12898,10 +12826,6 @@
     "KFXEKRSW": {
         "origin": "KFXE",
         "destination": "KRSW"
-    },
-    "KBCTKBCT": {
-        "origin": "KBCT",
-        "destination": "KBCT"
     },
     "KTEBKMSN": {
         "origin": "KTEB",
@@ -13619,10 +13543,6 @@
         "origin": "KPBI",
         "destination": "KJZI"
     },
-    "KAFWKAFW": {
-        "origin": "KAFW",
-        "destination": "KAFW"
-    },
     "KPWKCYYR": {
         "origin": "KPWK",
         "destination": "CYYR"
@@ -13819,10 +13739,6 @@
         "origin": "KBCB",
         "destination": "KBOS"
     },
-    "KTUSKTUS": {
-        "origin": "KTUS",
-        "destination": "KTUS"
-    },
     "KSNAKLVK": {
         "origin": "KSNA",
         "destination": "KLVK"
@@ -13866,10 +13782,6 @@
     "KAFWKOKC": {
         "origin": "KAFW",
         "destination": "KOKC"
-    },
-    "KPWKKPWK": {
-        "origin": "KPWK",
-        "destination": "KPWK"
     },
     "KP20KBAZ": {
         "origin": "KP20",
@@ -14034,10 +13946,6 @@
     "KOAKKAPA": {
         "origin": "KOAK",
         "destination": "KAPA"
-    },
-    "KLNKKLNK": {
-        "origin": "KLNK",
-        "destination": "KLNK"
     },
     "KMFDGQQ": {
         "origin": "KMFD",
@@ -14346,10 +14254,6 @@
     "KBDRKPNE": {
         "origin": "KBDR",
         "destination": "KPNE"
-    },
-    "MYNNMYNN": {
-        "origin": "MYNN",
-        "destination": "MYNN"
     },
     "KMYRKMSN": {
         "origin": "KMYR",
@@ -14862,10 +14766,6 @@
     "KDSMKICT": {
         "origin": "KDSM",
         "destination": "KICT"
-    },
-    "KHOUKHOU": {
-        "origin": "KHOU",
-        "destination": "KHOU"
     },
     "KRDUKHPN": {
         "origin": "KRDU",
@@ -15531,10 +15431,6 @@
         "origin": "KMKE",
         "destination": "KAMW"
     },
-    "KICTKICT": {
-        "origin": "KICT",
-        "destination": "KICT"
-    },
     "KINDKMSP": {
         "origin": "KIND",
         "destination": "KMSP"
@@ -16107,10 +16003,6 @@
         "origin": "KSRQ",
         "destination": "KOCF"
     },
-    "KLZUKLZU": {
-        "origin": "KLZU",
-        "destination": "KLZU"
-    },
     "KDFWKBRO": {
         "origin": "KDFW",
         "destination": "KBRO"
@@ -16378,10 +16270,6 @@
     "KPWKKSOP": {
         "origin": "KPWK",
         "destination": "KSOP"
-    },
-    "KPTKKPTK": {
-        "origin": "KPTK",
-        "destination": "KPTK"
     },
     "PHKOKSFO": {
         "origin": "PHKO",
@@ -16955,10 +16843,6 @@
         "origin": "MYNN",
         "destination": "MMTO"
     },
-    "KPBIKPBI": {
-        "origin": "KPBI",
-        "destination": "KPBI"
-    },
     "KMDTKIPT": {
         "origin": "KMDT",
         "destination": "KIPT"
@@ -17023,10 +16907,6 @@
         "origin": "KAXN",
         "destination": "KMSP"
     },
-    "KHEFKHEF": {
-        "origin": "KHEF",
-        "destination": "KHEF"
-    },
     "KSGRMSY": {
         "origin": "KSGR",
         "destination": "MSY"
@@ -17050,10 +16930,6 @@
     "KCOSKMRY": {
         "origin": "KCOS",
         "destination": "KMRY"
-    },
-    "KEQYKEQY": {
-        "origin": "KEQY",
-        "destination": "KEQY"
     },
     "KLASKFTY": {
         "origin": "KLAS",
@@ -17343,10 +17219,6 @@
         "origin": "KBCT",
         "destination": "KMSY"
     },
-    "CYOWCYOW": {
-        "origin": "CYOW",
-        "destination": "CYOW"
-    },
     "KFMYKAUS": {
         "origin": "KFMY",
         "destination": "KAUS"
@@ -17386,10 +17258,6 @@
     "KBURKMSY": {
         "origin": "KBUR",
         "destination": "KMSY"
-    },
-    "KMHTKMHT": {
-        "origin": "KMHT",
-        "destination": "KMHT"
     },
     "KJZIKHPN": {
         "origin": "KJZI",
@@ -17823,10 +17691,6 @@
         "origin": "KSGR",
         "destination": "KBHM"
     },
-    "KCLTKCLT": {
-        "origin": "KCLT",
-        "destination": "KCLT"
-    },
     "KRICKMMU": {
         "origin": "KRIC",
         "destination": "KMMU"
@@ -18183,10 +18047,6 @@
         "origin": "KBKV",
         "destination": "KSTL"
     },
-    "KROCKROC": {
-        "origin": "KROC",
-        "destination": "KROC"
-    },
     "KLAXKPTK": {
         "origin": "KLAX",
         "destination": "KPTK"
@@ -18206,10 +18066,6 @@
     "KLITKIND": {
         "origin": "KLIT",
         "destination": "KIND"
-    },
-    "KSGRKSGR": {
-        "origin": "KSGR",
-        "destination": "KSGR"
     },
     "KBNAKILG": {
         "origin": "KBNA",
@@ -18450,10 +18306,6 @@
     "KSTSKSNA": {
         "origin": "KSTS",
         "destination": "KSNA"
-    },
-    "KPWAKPWA": {
-        "origin": "KPWA",
-        "destination": "KPWA"
     },
     "KYIPKMQY": {
         "origin": "KYIP",
@@ -20803,10 +20655,6 @@
         "origin": "KONA",
         "destination": "KCOS"
     },
-    "KSDLKSDL": {
-        "origin": "KSDL",
-        "destination": "KSDL"
-    },
     "KFWSKTPL": {
         "origin": "KFWS",
         "destination": "KTPL"
@@ -21651,10 +21499,6 @@
         "origin": "CYXX",
         "destination": "KBFI"
     },
-    "KPDKKPDK": {
-        "origin": "KPDK",
-        "destination": "KPDK"
-    },
     "KDTSKMIA": {
         "origin": "KDTS",
         "destination": "KMIA"
@@ -21731,10 +21575,6 @@
         "origin": "KSUS",
         "destination": "KADS"
     },
-    "KCNOKCNO": {
-        "origin": "KCNO",
-        "destination": "KCNO"
-    },
     "KADSKSUS": {
         "origin": "KADS",
         "destination": "KSUS"
@@ -21806,10 +21646,6 @@
     "KOPFKITH": {
         "origin": "KOPF",
         "destination": "KITH"
-    },
-    "KCRQKCRQ": {
-        "origin": "KCRQ",
-        "destination": "KCRQ"
     },
     "KEGEKICT": {
         "origin": "KEGE",
@@ -21938,10 +21774,6 @@
     "KPHLMYNN": {
         "origin": "KPHL",
         "destination": "MYNN"
-    },
-    "KMSPKMSP": {
-        "origin": "KMSP",
-        "destination": "KMSP"
     },
     "KMSPKAXA": {
         "origin": "KMSP",
@@ -22875,10 +22707,6 @@
         "origin": "KCAK",
         "destination": "KCMH"
     },
-    "KCHAKCHA": {
-        "origin": "KCHA",
-        "destination": "KCHA"
-    },
     "KAEXKTYR": {
         "origin": "KAEX",
         "destination": "KTYR"
@@ -23182,10 +23010,6 @@
     "KBGRLFPB": {
         "origin": "KBGR",
         "destination": "LFPB"
-    },
-    "KGYYKGYY": {
-        "origin": "KGYY",
-        "destination": "KGYY"
     },
     "KOMAKSAF": {
         "origin": "KOMA",
@@ -25495,10 +25319,6 @@
         "origin": "KCQF",
         "destination": "KDAL"
     },
-    "KBFLKBFL": {
-        "origin": "KBFL",
-        "destination": "KBFL"
-    },
     "KBFLKVNY": {
         "origin": "KBFL",
         "destination": "KVNY"
@@ -25918,5 +25738,3221 @@
     "CYLWPHOG": {
         "origin": "CYLW",
         "destination": "PHOG"
+    },
+    "KISMKTTN": {
+        "origin": "KISM",
+        "destination": "KTTN"
+    },
+    "KSUSKTEB": {
+        "origin": "KSUS",
+        "destination": "KTEB"
+    },
+    "KBED5B2": {
+        "origin": "KBED",
+        "destination": "5B2"
+    },
+    "KPDKKHVN": {
+        "origin": "KPDK",
+        "destination": "KHVN"
+    },
+    "KHVNKIAD": {
+        "origin": "KHVN",
+        "destination": "KIAD"
+    },
+    "KPDXKATL": {
+        "origin": "KPDX",
+        "destination": "KATL"
+    },
+    "KTTNKTEB": {
+        "origin": "KTTN",
+        "destination": "KTEB"
+    },
+    "KSTPKTMB": {
+        "origin": "KSTP",
+        "destination": "KTMB"
+    },
+    "KAFWKTUL": {
+        "origin": "KAFW",
+        "destination": "KTUL"
+    },
+    "KTYRPWK": {
+        "origin": "KTYR",
+        "destination": "PWK"
+    },
+    "KHYAKPWK": {
+        "origin": "KHYA",
+        "destination": "KPWK"
+    },
+    "KCMAKCOE": {
+        "origin": "KCMA",
+        "destination": "KCOE"
+    },
+    "KCRQKCCR": {
+        "origin": "KCRQ",
+        "destination": "KCCR"
+    },
+    "KBUFKROC": {
+        "origin": "KBUF",
+        "destination": "KROC"
+    },
+    "KHOUKASE": {
+        "origin": "KHOU",
+        "destination": "KASE"
+    },
+    "CYPQKBUF": {
+        "origin": "CYPQ",
+        "destination": "KBUF"
+    },
+    "KISMKDWH": {
+        "origin": "KISM",
+        "destination": "KDWH"
+    },
+    "KAPGKDWH": {
+        "origin": "KAPG",
+        "destination": "KDWH"
+    },
+    "KBEDKLGA": {
+        "origin": "KBED",
+        "destination": "KLGA"
+    },
+    "KORLKMGW": {
+        "origin": "KORL",
+        "destination": "KMGW"
+    },
+    "KHDNKIAD": {
+        "origin": "KHDN",
+        "destination": "KIAD"
+    },
+    "KBDLKCID": {
+        "origin": "KBDL",
+        "destination": "KCID"
+    },
+    "KIADPSK": {
+        "origin": "KIAD",
+        "destination": "PSK"
+    },
+    "KIADKCHS": {
+        "origin": "KIAD",
+        "destination": "KCHS"
+    },
+    "KPBIKTVC": {
+        "origin": "KPBI",
+        "destination": "KTVC"
+    },
+    "KRDDKTEB": {
+        "origin": "KRDD",
+        "destination": "KTEB"
+    },
+    "KASEKSAT": {
+        "origin": "KASE",
+        "destination": "KSAT"
+    },
+    "TNCAKSAV": {
+        "origin": "TNCA",
+        "destination": "KSAV"
+    },
+    "KILMKRIC": {
+        "origin": "KILM",
+        "destination": "KRIC"
+    },
+    "KLEBKHYA": {
+        "origin": "KLEB",
+        "destination": "KHYA"
+    },
+    "KCCRKOKC": {
+        "origin": "KCCR",
+        "destination": "KOKC"
+    },
+    "KSAAKOMA": {
+        "origin": "KSAA",
+        "destination": "KOMA"
+    },
+    "KJACKBFI": {
+        "origin": "KJAC",
+        "destination": "KBFI"
+    },
+    "BIKFKPIA": {
+        "origin": "BIKF",
+        "destination": "KPIA"
+    },
+    "KSGRKAPA": {
+        "origin": "KSGR",
+        "destination": "KAPA"
+    },
+    "CYYCKCXO": {
+        "origin": "CYYC",
+        "destination": "KCXO"
+    },
+    "KTYQKTEB": {
+        "origin": "KTYQ",
+        "destination": "KTEB"
+    },
+    "KUESKTEB": {
+        "origin": "KUES",
+        "destination": "KTEB"
+    },
+    "CYXCKTEB": {
+        "origin": "CYXC",
+        "destination": "KTEB"
+    },
+    "KPWKKLGB": {
+        "origin": "KPWK",
+        "destination": "KLGB"
+    },
+    "KHYAKLEX": {
+        "origin": "KHYA",
+        "destination": "KLEX"
+    },
+    "KUGNKBED": {
+        "origin": "KUGN",
+        "destination": "KBED"
+    },
+    "KPWKKENW": {
+        "origin": "KPWK",
+        "destination": "KENW"
+    },
+    "KSNAKEGE": {
+        "origin": "KSNA",
+        "destination": "KEGE"
+    },
+    "KTULKPWK": {
+        "origin": "KTUL",
+        "destination": "KPWK"
+    },
+    "KATWKMDW": {
+        "origin": "KATW",
+        "destination": "KMDW"
+    },
+    "KATLKMKE": {
+        "origin": "KATL",
+        "destination": "KMKE"
+    },
+    "CYULKGRR": {
+        "origin": "CYUL",
+        "destination": "KGRR"
+    },
+    "KHDNKSGR": {
+        "origin": "KHDN",
+        "destination": "KSGR"
+    },
+    "KDLNKSLC": {
+        "origin": "KDLN",
+        "destination": "KSLC"
+    },
+    "KGVLKLOT": {
+        "origin": "KGVL",
+        "destination": "KLOT"
+    },
+    "KLOTKGVL": {
+        "origin": "KLOT",
+        "destination": "KGVL"
+    },
+    "CYYJKBFI": {
+        "origin": "CYYJ",
+        "destination": "KBFI"
+    },
+    "KCDRKTUL": {
+        "origin": "KCDR",
+        "destination": "KTUL"
+    },
+    "KMGWKBMG": {
+        "origin": "KMGW",
+        "destination": "KBMG"
+    },
+    "KRSTKOPF": {
+        "origin": "KRST",
+        "destination": "KOPF"
+    },
+    "KSLNKTRI": {
+        "origin": "KSLN",
+        "destination": "KTRI"
+    },
+    "KCOEKHOU": {
+        "origin": "KCOE",
+        "destination": "KHOU"
+    },
+    "KPIAKBMI": {
+        "origin": "KPIA",
+        "destination": "KBMI"
+    },
+    "TISTKORL": {
+        "origin": "TIST",
+        "destination": "KORL"
+    },
+    "KPDKKSNA": {
+        "origin": "KPDK",
+        "destination": "KSNA"
+    },
+    "KLEXKOPF": {
+        "origin": "KLEX",
+        "destination": "KOPF"
+    },
+    "KBOIKDVT": {
+        "origin": "KBOI",
+        "destination": "KDVT"
+    },
+    "KTUSKSLC": {
+        "origin": "KTUS",
+        "destination": "KSLC"
+    },
+    "KTVCKJWN": {
+        "origin": "KTVC",
+        "destination": "KJWN"
+    },
+    "KEGEKAEX": {
+        "origin": "KEGE",
+        "destination": "KAEX"
+    },
+    "KENWKSWF": {
+        "origin": "KENW",
+        "destination": "KSWF"
+    },
+    "KSAVKGSP": {
+        "origin": "KSAV",
+        "destination": "KGSP"
+    },
+    "KCXOKTEB": {
+        "origin": "KCXO",
+        "destination": "KTEB"
+    },
+    "0W3ILG": {
+        "origin": "0W3",
+        "destination": "ILG"
+    },
+    "KOKCKCRQ": {
+        "origin": "KOKC",
+        "destination": "KCRQ"
+    },
+    "KDALKJKA": {
+        "origin": "KDAL",
+        "destination": "KJKA"
+    },
+    "KTYREDC": {
+        "origin": "KTYR",
+        "destination": "EDC"
+    },
+    "KORLKSAT": {
+        "origin": "KORL",
+        "destination": "KSAT"
+    },
+    "MMMVKADS": {
+        "origin": "MMMV",
+        "destination": "KADS"
+    },
+    "KDPAKACK": {
+        "origin": "KDPA",
+        "destination": "KACK"
+    },
+    "KVISMRY": {
+        "origin": "KVIS",
+        "destination": "MRY"
+    },
+    "KDVTKCRQ": {
+        "origin": "KDVT",
+        "destination": "KCRQ"
+    },
+    "KMRYKSJC": {
+        "origin": "KMRY",
+        "destination": "KSJC"
+    },
+    "KEDCKTYR": {
+        "origin": "KEDC",
+        "destination": "KTYR"
+    },
+    "KAEXKADS": {
+        "origin": "KAEX",
+        "destination": "KADS"
+    },
+    "KOXRKLAS": {
+        "origin": "KOXR",
+        "destination": "KLAS"
+    },
+    "KADSKEDC": {
+        "origin": "KADS",
+        "destination": "KEDC"
+    },
+    "KACKKBED": {
+        "origin": "KACK",
+        "destination": "KBED"
+    },
+    "KJKAKPBI": {
+        "origin": "KJKA",
+        "destination": "KPBI"
+    },
+    "KPVUKTUS": {
+        "origin": "KPVU",
+        "destination": "KTUS"
+    },
+    "KCNOCRQ": {
+        "origin": "KCNO",
+        "destination": "CRQ"
+    },
+    "KTEBKTYQ": {
+        "origin": "KTEB",
+        "destination": "KTYQ"
+    },
+    "KFOKKPTK": {
+        "origin": "KFOK",
+        "destination": "KPTK"
+    },
+    "KLEXKIAD": {
+        "origin": "KLEX",
+        "destination": "KIAD"
+    },
+    "KASWKYIP": {
+        "origin": "KASW",
+        "destination": "KYIP"
+    },
+    "KCMHKHOU": {
+        "origin": "KCMH",
+        "destination": "KHOU"
+    },
+    "KBJCKEGE": {
+        "origin": "KBJC",
+        "destination": "KEGE"
+    },
+    "KJQFKSUA": {
+        "origin": "KJQF",
+        "destination": "KSUA"
+    },
+    "KCOSKSBA": {
+        "origin": "KCOS",
+        "destination": "KSBA"
+    },
+    "KMQSKLCI": {
+        "origin": "KMQS",
+        "destination": "KLCI"
+    },
+    "KYIPKIND": {
+        "origin": "KYIP",
+        "destination": "KIND"
+    },
+    "KTEBKBLM": {
+        "origin": "KTEB",
+        "destination": "KBLM"
+    },
+    "KTEBTJRV": {
+        "origin": "KTEB",
+        "destination": "TJRV"
+    },
+    "KPDKKFNL": {
+        "origin": "KPDK",
+        "destination": "KFNL"
+    },
+    "KCMHKBOS": {
+        "origin": "KCMH",
+        "destination": "KBOS"
+    },
+    "KSATKCXO": {
+        "origin": "KSAT",
+        "destination": "KCXO"
+    },
+    "KDALKASE": {
+        "origin": "KDAL",
+        "destination": "KASE"
+    },
+    "KPWKKFRG": {
+        "origin": "KPWK",
+        "destination": "KFRG"
+    },
+    "KLCIX60": {
+        "origin": "KLCI",
+        "destination": "X60"
+    },
+    "KBLMKCEW": {
+        "origin": "KBLM",
+        "destination": "KCEW"
+    },
+    "CYHMKMKE": {
+        "origin": "CYHM",
+        "destination": "KMKE"
+    },
+    "KSWFKSRQ": {
+        "origin": "KSWF",
+        "destination": "KSRQ"
+    },
+    "KJACKICT": {
+        "origin": "KJAC",
+        "destination": "KICT"
+    },
+    "KRDUKGFL": {
+        "origin": "KRDU",
+        "destination": "KGFL"
+    },
+    "KEGEKSLC": {
+        "origin": "KEGE",
+        "destination": "KSLC"
+    },
+    "KCMAKBED": {
+        "origin": "KCMA",
+        "destination": "KBED"
+    },
+    "KBMGKOUN": {
+        "origin": "KBMG",
+        "destination": "KOUN"
+    },
+    "KIADKACK": {
+        "origin": "KIAD",
+        "destination": "KACK"
+    },
+    "KMKCKPVD": {
+        "origin": "KMKC",
+        "destination": "KPVD"
+    },
+    "KSUNKRME": {
+        "origin": "KSUN",
+        "destination": "KRME"
+    },
+    "KLEBKSDL": {
+        "origin": "KLEB",
+        "destination": "KSDL"
+    },
+    "KSNARIL": {
+        "origin": "KSNA",
+        "destination": "RIL"
+    },
+    "KDFWKPHL": {
+        "origin": "KDFW",
+        "destination": "KPHL"
+    },
+    "KAPAKIAH": {
+        "origin": "KAPA",
+        "destination": "KIAH"
+    },
+    "KTEBKCOE": {
+        "origin": "KTEB",
+        "destination": "KCOE"
+    },
+    "CYVRKGSP": {
+        "origin": "CYVR",
+        "destination": "KGSP"
+    },
+    "KBOSKCMH": {
+        "origin": "KBOS",
+        "destination": "KCMH"
+    },
+    "KJWNKPHL": {
+        "origin": "KJWN",
+        "destination": "KPHL"
+    },
+    "KPTKKFOK": {
+        "origin": "KPTK",
+        "destination": "KFOK"
+    },
+    "KGYYKIAD": {
+        "origin": "KGYY",
+        "destination": "KIAD"
+    },
+    "KSLCKSJC": {
+        "origin": "KSLC",
+        "destination": "KSJC"
+    },
+    "CYYZKCOS": {
+        "origin": "CYYZ",
+        "destination": "KCOS"
+    },
+    "KMDWKEGE": {
+        "origin": "KMDW",
+        "destination": "KEGE"
+    },
+    "KLGBKSNA": {
+        "origin": "KLGB",
+        "destination": "KSNA"
+    },
+    "KICTKFXE": {
+        "origin": "KICT",
+        "destination": "KFXE"
+    },
+    "KPIEKBWI": {
+        "origin": "KPIE",
+        "destination": "KBWI"
+    },
+    "KCHSKIAD": {
+        "origin": "KCHS",
+        "destination": "KIAD"
+    },
+    "KTEBKPSP": {
+        "origin": "KTEB",
+        "destination": "KPSP"
+    },
+    "KMSPKPVD": {
+        "origin": "KMSP",
+        "destination": "KPVD"
+    },
+    "KIADKMCO": {
+        "origin": "KIAD",
+        "destination": "KMCO"
+    },
+    "KVNYKIAD": {
+        "origin": "KVNY",
+        "destination": "KIAD"
+    },
+    "KSGRKAFW": {
+        "origin": "KSGR",
+        "destination": "KAFW"
+    },
+    "KPBIKSGF": {
+        "origin": "KPBI",
+        "destination": "KSGF"
+    },
+    "KBEDKTDZ": {
+        "origin": "KBED",
+        "destination": "KTDZ"
+    },
+    "KFRGKGON": {
+        "origin": "KFRG",
+        "destination": "KGON"
+    },
+    "KASEKPDK": {
+        "origin": "KASE",
+        "destination": "KPDK"
+    },
+    "KVISKLAX": {
+        "origin": "KVIS",
+        "destination": "KLAX"
+    },
+    "KCEWKBLM": {
+        "origin": "KCEW",
+        "destination": "KBLM"
+    },
+    "MKJPKFLL": {
+        "origin": "MKJP",
+        "destination": "KFLL"
+    },
+    "KSJCKIDA": {
+        "origin": "KSJC",
+        "destination": "KIDA"
+    },
+    "KMDWKCLE": {
+        "origin": "KMDW",
+        "destination": "KCLE"
+    },
+    "KSRQKEGE": {
+        "origin": "KSRQ",
+        "destination": "KEGE"
+    },
+    "KAPCKNUQ": {
+        "origin": "KAPC",
+        "destination": "KNUQ"
+    },
+    "KGSPKBED": {
+        "origin": "KGSP",
+        "destination": "KBED"
+    },
+    "KBNAKCMH": {
+        "origin": "KBNA",
+        "destination": "KCMH"
+    },
+    "KIADKBHB": {
+        "origin": "KIAD",
+        "destination": "KBHB"
+    },
+    "KRICKADS": {
+        "origin": "KRIC",
+        "destination": "KADS"
+    },
+    "KGFLKCPP": {
+        "origin": "KGFL",
+        "destination": "KCPP"
+    },
+    "KMVYKMHT": {
+        "origin": "KMVY",
+        "destination": "KMHT"
+    },
+    "KVNYKCOE": {
+        "origin": "KVNY",
+        "destination": "KCOE"
+    },
+    "KAFWKOAK": {
+        "origin": "KAFW",
+        "destination": "KOAK"
+    },
+    "KPDKKCLT": {
+        "origin": "KPDK",
+        "destination": "KCLT"
+    },
+    "KBDRKPHL": {
+        "origin": "KBDR",
+        "destination": "KPHL"
+    },
+    "KTUSKBRD": {
+        "origin": "KTUS",
+        "destination": "KBRD"
+    },
+    "CYXUKMTN": {
+        "origin": "CYXU",
+        "destination": "KMTN"
+    },
+    "KNUQKBFI": {
+        "origin": "KNUQ",
+        "destination": "KBFI"
+    },
+    "KOXCKADS": {
+        "origin": "KOXC",
+        "destination": "KADS"
+    },
+    "KOUNKTYS": {
+        "origin": "KOUN",
+        "destination": "KTYS"
+    },
+    "KIDAKDAL": {
+        "origin": "KIDA",
+        "destination": "KDAL"
+    },
+    "CYRIKPDK": {
+        "origin": "CYRI",
+        "destination": "KPDK"
+    },
+    "KBEDKLWM": {
+        "origin": "KBED",
+        "destination": "KLWM"
+    },
+    "KGONKPBI": {
+        "origin": "KGON",
+        "destination": "KPBI"
+    },
+    "KSUAKJQF": {
+        "origin": "KSUA",
+        "destination": "KJQF"
+    },
+    "KSATKPWA": {
+        "origin": "KSAT",
+        "destination": "KPWA"
+    },
+    "KEGEKSAN": {
+        "origin": "KEGE",
+        "destination": "KSAN"
+    },
+    "KBHBKMHT": {
+        "origin": "KBHB",
+        "destination": "KMHT"
+    },
+    "KSATKSDL": {
+        "origin": "KSAT",
+        "destination": "KSDL"
+    },
+    "KCMHKSGF": {
+        "origin": "KCMH",
+        "destination": "KSGF"
+    },
+    "KSGHKSFO": {
+        "origin": "KSGH",
+        "destination": "KSFO"
+    },
+    "X60KCXY": {
+        "origin": "X60",
+        "destination": "KCXY"
+    },
+    "KPHLKOPF": {
+        "origin": "KPHL",
+        "destination": "KOPF"
+    },
+    "KCPPKCMH": {
+        "origin": "KCPP",
+        "destination": "KCMH"
+    },
+    "KHOUKBED": {
+        "origin": "KHOU",
+        "destination": "KBED"
+    },
+    "KINDKYIP": {
+        "origin": "KIND",
+        "destination": "KYIP"
+    },
+    "KGJTKAPA": {
+        "origin": "KGJT",
+        "destination": "KAPA"
+    },
+    "KPDKKCMH": {
+        "origin": "KPDK",
+        "destination": "KCMH"
+    },
+    "KMCOKGYY": {
+        "origin": "KMCO",
+        "destination": "KGYY"
+    },
+    "KTEBKUES": {
+        "origin": "KTEB",
+        "destination": "KUES"
+    },
+    "KFLGKCOE": {
+        "origin": "KFLG",
+        "destination": "KCOE"
+    },
+    "KMDWKATW": {
+        "origin": "KMDW",
+        "destination": "KATW"
+    },
+    "KEGEKASE": {
+        "origin": "KEGE",
+        "destination": "KASE"
+    },
+    "CYYZKMTN": {
+        "origin": "CYYZ",
+        "destination": "KMTN"
+    },
+    "KBNAKSBA": {
+        "origin": "KBNA",
+        "destination": "KSBA"
+    },
+    "KPDKKPWK": {
+        "origin": "KPDK",
+        "destination": "KPWK"
+    },
+    "KFNLKPDK": {
+        "origin": "KFNL",
+        "destination": "KPDK"
+    },
+    "KSDLKICT": {
+        "origin": "KSDL",
+        "destination": "KICT"
+    },
+    "KOAKKSFO": {
+        "origin": "KOAK",
+        "destination": "KSFO"
+    },
+    "KSBAKBUR": {
+        "origin": "KSBA",
+        "destination": "KBUR"
+    },
+    "KRDUKAFW": {
+        "origin": "KRDU",
+        "destination": "KAFW"
+    },
+    "KMDWKPWK": {
+        "origin": "KMDW",
+        "destination": "KPWK"
+    },
+    "KFTWKLAS": {
+        "origin": "KFTW",
+        "destination": "KLAS"
+    },
+    "KGYYKMCO": {
+        "origin": "KGYY",
+        "destination": "KMCO"
+    },
+    "KLASKTMB": {
+        "origin": "KLAS",
+        "destination": "KTMB"
+    },
+    "KICTKFOK": {
+        "origin": "KICT",
+        "destination": "KFOK"
+    },
+    "PHNLKSNA": {
+        "origin": "PHNL",
+        "destination": "KSNA"
+    },
+    "CYYRKHOU": {
+        "origin": "CYYR",
+        "destination": "KHOU"
+    },
+    "KJAXKOQU": {
+        "origin": "KJAX",
+        "destination": "KOQU"
+    },
+    "SANTKFLL": {
+        "origin": "SANT",
+        "destination": "KFLL"
+    },
+    "KSUNKOMA": {
+        "origin": "KSUN",
+        "destination": "KOMA"
+    },
+    "KCMHKOSU": {
+        "origin": "KCMH",
+        "destination": "KOSU"
+    },
+    "KSDLKBIV": {
+        "origin": "KSDL",
+        "destination": "KBIV"
+    },
+    "KDTOKPWA": {
+        "origin": "KDTO",
+        "destination": "KPWA"
+    },
+    "KFOKKMHT": {
+        "origin": "KFOK",
+        "destination": "KMHT"
+    },
+    "KFXEKAVL": {
+        "origin": "KFXE",
+        "destination": "KAVL"
+    },
+    "KRMEKBDL": {
+        "origin": "KRME",
+        "destination": "KBDL"
+    },
+    "KLWMKSBN": {
+        "origin": "KLWM",
+        "destination": "KSBN"
+    },
+    "KPDKKLGB": {
+        "origin": "KPDK",
+        "destination": "KLGB"
+    },
+    "KDALKCLL": {
+        "origin": "KDAL",
+        "destination": "KCLL"
+    },
+    "KPDKKISM": {
+        "origin": "KPDK",
+        "destination": "KISM"
+    },
+    "KISMKCHA": {
+        "origin": "KISM",
+        "destination": "KCHA"
+    },
+    "KCHAKPDK": {
+        "origin": "KCHA",
+        "destination": "KPDK"
+    },
+    "KMHTKIAD": {
+        "origin": "KMHT",
+        "destination": "KIAD"
+    },
+    "KSATKCKV": {
+        "origin": "KSAT",
+        "destination": "KCKV"
+    },
+    "KAVLKFXE": {
+        "origin": "KAVL",
+        "destination": "KFXE"
+    },
+    "KSANKESN": {
+        "origin": "KSAN",
+        "destination": "KESN"
+    },
+    "KPSKKASE": {
+        "origin": "KPSK",
+        "destination": "KASE"
+    },
+    "KTMEKASE": {
+        "origin": "KTME",
+        "destination": "KASE"
+    },
+    "KCLLKCLT": {
+        "origin": "KCLL",
+        "destination": "KCLT"
+    },
+    "KSNAKBZN": {
+        "origin": "KSNA",
+        "destination": "KBZN"
+    },
+    "KPCDKFXE": {
+        "origin": "KPCD",
+        "destination": "KFXE"
+    },
+    "KICTKBED": {
+        "origin": "KICT",
+        "destination": "KBED"
+    },
+    "KASEKCHO": {
+        "origin": "KASE",
+        "destination": "KCHO"
+    },
+    "KDALKBKW": {
+        "origin": "KDAL",
+        "destination": "KBKW"
+    },
+    "KBIVKSDL": {
+        "origin": "KBIV",
+        "destination": "KSDL"
+    },
+    "KPHNKAPA": {
+        "origin": "KPHN",
+        "destination": "KAPA"
+    },
+    "MYNNKTMB": {
+        "origin": "MYNN",
+        "destination": "KTMB"
+    },
+    "KOSUKMDW": {
+        "origin": "KOSU",
+        "destination": "KMDW"
+    },
+    "KJACKSTJ": {
+        "origin": "KJAC",
+        "destination": "KSTJ"
+    },
+    "KACKKCGF": {
+        "origin": "KACK",
+        "destination": "KCGF"
+    },
+    "KSBNKPWK": {
+        "origin": "KSBN",
+        "destination": "KPWK"
+    },
+    "KPNEKLCI": {
+        "origin": "KPNE",
+        "destination": "KLCI"
+    },
+    "KSLCKCRQ": {
+        "origin": "KSLC",
+        "destination": "KCRQ"
+    },
+    "KCRQKSLC": {
+        "origin": "KCRQ",
+        "destination": "KSLC"
+    },
+    "KTEBKBGR": {
+        "origin": "KTEB",
+        "destination": "KBGR"
+    },
+    "KACKKPBI": {
+        "origin": "KACK",
+        "destination": "KPBI"
+    },
+    "KPBIKHYA": {
+        "origin": "KPBI",
+        "destination": "KHYA"
+    },
+    "KTYSKPBI": {
+        "origin": "KTYS",
+        "destination": "KPBI"
+    },
+    "KTEBKSUS": {
+        "origin": "KTEB",
+        "destination": "KSUS"
+    },
+    "KRILASE": {
+        "origin": "KRIL",
+        "destination": "ASE"
+    },
+    "KHEFKHPN": {
+        "origin": "KHEF",
+        "destination": "KHPN"
+    },
+    "KLAXKSNA": {
+        "origin": "KLAX",
+        "destination": "KSNA"
+    },
+    "KJACKNUQ": {
+        "origin": "KJAC",
+        "destination": "KNUQ"
+    },
+    "KGSPKORL": {
+        "origin": "KGSP",
+        "destination": "KORL"
+    },
+    "KBKWKDAL": {
+        "origin": "KBKW",
+        "destination": "KDAL"
+    },
+    "KOQUKJAX": {
+        "origin": "KOQU",
+        "destination": "KJAX"
+    },
+    "CYWGKPWK": {
+        "origin": "CYWG",
+        "destination": "KPWK"
+    },
+    "KFOKKAUG": {
+        "origin": "KFOK",
+        "destination": "KAUG"
+    },
+    "KPVDKMKC": {
+        "origin": "KPVD",
+        "destination": "KMKC"
+    },
+    "KHOUKCMH": {
+        "origin": "KHOU",
+        "destination": "KCMH"
+    },
+    "KINDKLAS": {
+        "origin": "KIND",
+        "destination": "KLAS"
+    },
+    "CYQAKHPN": {
+        "origin": "CYQA",
+        "destination": "KHPN"
+    },
+    "KCLTKAPA": {
+        "origin": "KCLT",
+        "destination": "KAPA"
+    },
+    "KPWAKDTO": {
+        "origin": "KPWA",
+        "destination": "KDTO"
+    },
+    "KSLKKFOK": {
+        "origin": "KSLK",
+        "destination": "KFOK"
+    },
+    "KPWKKACK": {
+        "origin": "KPWK",
+        "destination": "KACK"
+    },
+    "KCHOKHYA": {
+        "origin": "KCHO",
+        "destination": "KHYA"
+    },
+    "KOAKKLIT": {
+        "origin": "KOAK",
+        "destination": "KLIT"
+    },
+    "KAUGKPBI": {
+        "origin": "KAUG",
+        "destination": "KPBI"
+    },
+    "KNUQKSFO": {
+        "origin": "KNUQ",
+        "destination": "KSFO"
+    },
+    "KGONKLQK": {
+        "origin": "KGON",
+        "destination": "KLQK"
+    },
+    "KBEDKLUK": {
+        "origin": "KBED",
+        "destination": "KLUK"
+    },
+    "KHPNKPWM": {
+        "origin": "KHPN",
+        "destination": "KPWM"
+    },
+    "KINDKHOU": {
+        "origin": "KIND",
+        "destination": "KHOU"
+    },
+    "KSGRKRIC": {
+        "origin": "KSGR",
+        "destination": "KRIC"
+    },
+    "KOXCKBED": {
+        "origin": "KOXC",
+        "destination": "KBED"
+    },
+    "MMTOKAPF": {
+        "origin": "MMTO",
+        "destination": "KAPF"
+    },
+    "KMIAKRDU": {
+        "origin": "KMIA",
+        "destination": "KRDU"
+    },
+    "KPWMKFOK": {
+        "origin": "KPWM",
+        "destination": "KFOK"
+    },
+    "KIDAKAUS": {
+        "origin": "KIDA",
+        "destination": "KAUS"
+    },
+    "KTMBKCON": {
+        "origin": "KTMB",
+        "destination": "KCON"
+    },
+    "MMCSKELP": {
+        "origin": "MMCS",
+        "destination": "KELP"
+    },
+    "KDALKPNS": {
+        "origin": "KDAL",
+        "destination": "KPNS"
+    },
+    "KHIOKMEV": {
+        "origin": "KHIO",
+        "destination": "KMEV"
+    },
+    "KPWMTJIG": {
+        "origin": "KPWM",
+        "destination": "TJIG"
+    },
+    "KMOTKVNY": {
+        "origin": "KMOT",
+        "destination": "KVNY"
+    },
+    "KRILKTPA": {
+        "origin": "KRIL",
+        "destination": "KTPA"
+    },
+    "KRNOKBFI": {
+        "origin": "KRNO",
+        "destination": "KBFI"
+    },
+    "KSLCKFAR": {
+        "origin": "KSLC",
+        "destination": "KFAR"
+    },
+    "EINNKBED": {
+        "origin": "EINN",
+        "destination": "KBED"
+    },
+    "KFOKKPWK": {
+        "origin": "KFOK",
+        "destination": "KPWK"
+    },
+    "BIKFKMOT": {
+        "origin": "BIKF",
+        "destination": "KMOT"
+    },
+    "KWYSKNUQ": {
+        "origin": "KWYS",
+        "destination": "KNUQ"
+    },
+    "KDROKTPL": {
+        "origin": "KDRO",
+        "destination": "KTPL"
+    },
+    "BIKFKRST": {
+        "origin": "BIKF",
+        "destination": "KRST"
+    },
+    "KGSPKATL": {
+        "origin": "KGSP",
+        "destination": "KATL"
+    },
+    "KEGEKCOS": {
+        "origin": "KEGE",
+        "destination": "KCOS"
+    },
+    "KLLRKAPA": {
+        "origin": "KLLR",
+        "destination": "KAPA"
+    },
+    "KNUQKLVK": {
+        "origin": "KNUQ",
+        "destination": "KLVK"
+    },
+    "KESNKFRG": {
+        "origin": "KESN",
+        "destination": "KFRG"
+    },
+    "KRDUKMIA": {
+        "origin": "KRDU",
+        "destination": "KMIA"
+    },
+    "KCMHKAUS": {
+        "origin": "KCMH",
+        "destination": "KAUS"
+    },
+    "PANCKPAE": {
+        "origin": "PANC",
+        "destination": "KPAE"
+    },
+    "KFOKKSFO": {
+        "origin": "KFOK",
+        "destination": "KSFO"
+    },
+    "KRILKCGF": {
+        "origin": "KRIL",
+        "destination": "KCGF"
+    },
+    "KABEKRHI": {
+        "origin": "KABE",
+        "destination": "KRHI"
+    },
+    "KSTLKDPA": {
+        "origin": "KSTL",
+        "destination": "KDPA"
+    },
+    "KPCDKALN": {
+        "origin": "KPCD",
+        "destination": "KALN"
+    },
+    "KIADKSUA": {
+        "origin": "KIAD",
+        "destination": "KSUA"
+    },
+    "KBEDKSTL": {
+        "origin": "KBED",
+        "destination": "KSTL"
+    },
+    "KCLTKJYO": {
+        "origin": "KCLT",
+        "destination": "KJYO"
+    },
+    "KJQFKRIC": {
+        "origin": "KJQF",
+        "destination": "KRIC"
+    },
+    "KMQSKMVY": {
+        "origin": "KMQS",
+        "destination": "KMVY"
+    },
+    "KLCIKVNY": {
+        "origin": "KLCI",
+        "destination": "KVNY"
+    },
+    "KBCTKEYW": {
+        "origin": "KBCT",
+        "destination": "KEYW"
+    },
+    "KDALKMYR": {
+        "origin": "KDAL",
+        "destination": "KMYR"
+    },
+    "KMVYKLCI": {
+        "origin": "KMVY",
+        "destination": "KLCI"
+    },
+    "KSDLKFRG": {
+        "origin": "KSDL",
+        "destination": "KFRG"
+    },
+    "KAPFKCHA": {
+        "origin": "KAPF",
+        "destination": "KCHA"
+    },
+    "KATLKLGA": {
+        "origin": "KATL",
+        "destination": "KLGA"
+    },
+    "KTEBKACK": {
+        "origin": "KTEB",
+        "destination": "KACK"
+    },
+    "KRHIKHPN": {
+        "origin": "KRHI",
+        "destination": "KHPN"
+    },
+    "KOMAKYIP": {
+        "origin": "KOMA",
+        "destination": "KYIP"
+    },
+    "KEYWKSRQ": {
+        "origin": "KEYW",
+        "destination": "KSRQ"
+    },
+    "KDALMMCS": {
+        "origin": "KDAL",
+        "destination": "MMCS"
+    },
+    "KFXEKLGA": {
+        "origin": "KFXE",
+        "destination": "KLGA"
+    },
+    "KSRQKAVL": {
+        "origin": "KSRQ",
+        "destination": "KAVL"
+    },
+    "KSLCKCHA": {
+        "origin": "KSLC",
+        "destination": "KCHA"
+    },
+    "KACKKFRG": {
+        "origin": "KACK",
+        "destination": "KFRG"
+    },
+    "KTXKKLIT": {
+        "origin": "KTXK",
+        "destination": "KLIT"
+    },
+    "KCOSKLGB": {
+        "origin": "KCOS",
+        "destination": "KLGB"
+    },
+    "KAUSTJIG": {
+        "origin": "KAUS",
+        "destination": "TJIG"
+    },
+    "KAPAKROA": {
+        "origin": "KAPA",
+        "destination": "KROA"
+    },
+    "KAUSKMSO": {
+        "origin": "KAUS",
+        "destination": "KMSO"
+    },
+    "KFXEKFRG": {
+        "origin": "KFXE",
+        "destination": "KFRG"
+    },
+    "KJACKSNA": {
+        "origin": "KJAC",
+        "destination": "KSNA"
+    },
+    "KDPAKAPF": {
+        "origin": "KDPA",
+        "destination": "KAPF"
+    },
+    "KHOUEGE": {
+        "origin": "KHOU",
+        "destination": "EGE"
+    },
+    "KTULKCAK": {
+        "origin": "KTUL",
+        "destination": "KCAK"
+    },
+    "KJYOKMKY": {
+        "origin": "KJYO",
+        "destination": "KMKY"
+    },
+    "KDWHKPDK": {
+        "origin": "KDWH",
+        "destination": "KPDK"
+    },
+    "KTEBKOKV": {
+        "origin": "KTEB",
+        "destination": "KOKV"
+    },
+    "KBEDKHGR": {
+        "origin": "KBED",
+        "destination": "KHGR"
+    },
+    "KCOEKFOK": {
+        "origin": "KCOE",
+        "destination": "KFOK"
+    },
+    "KAVLKBCT": {
+        "origin": "KAVL",
+        "destination": "KBCT"
+    },
+    "KCHAKSUS": {
+        "origin": "KCHA",
+        "destination": "KSUS"
+    },
+    "KSUSKPIE": {
+        "origin": "KSUS",
+        "destination": "KPIE"
+    },
+    "KMHTKRIC": {
+        "origin": "KMHT",
+        "destination": "KRIC"
+    },
+    "KLGAKFXE": {
+        "origin": "KLGA",
+        "destination": "KFXE"
+    },
+    "KLCIKMQS": {
+        "origin": "KLCI",
+        "destination": "KMQS"
+    },
+    "TUPJKSUA": {
+        "origin": "TUPJ",
+        "destination": "KSUA"
+    },
+    "KPBIKOXC": {
+        "origin": "KPBI",
+        "destination": "KOXC"
+    },
+    "KLITKXNA": {
+        "origin": "KLIT",
+        "destination": "KXNA"
+    },
+    "KCHAKDAL": {
+        "origin": "KCHA",
+        "destination": "KDAL"
+    },
+    "KCAKKTUL": {
+        "origin": "KCAK",
+        "destination": "KTUL"
+    },
+    "KBGRKPTK": {
+        "origin": "KBGR",
+        "destination": "KPTK"
+    },
+    "KMYRKMAF": {
+        "origin": "KMYR",
+        "destination": "KMAF"
+    },
+    "KMKYKPIT": {
+        "origin": "KMKY",
+        "destination": "KPIT"
+    },
+    "KTRKKHWD": {
+        "origin": "KTRK",
+        "destination": "KHWD"
+    },
+    "KROAKACK": {
+        "origin": "KROA",
+        "destination": "KACK"
+    },
+    "KASEKEGE": {
+        "origin": "KASE",
+        "destination": "KEGE"
+    },
+    "KSATKDFW": {
+        "origin": "KSAT",
+        "destination": "KDFW"
+    },
+    "KDFWKDAL": {
+        "origin": "KDFW",
+        "destination": "KDAL"
+    },
+    "KTPLKSNA": {
+        "origin": "KTPL",
+        "destination": "KSNA"
+    },
+    "KLVKKSAN": {
+        "origin": "KLVK",
+        "destination": "KSAN"
+    },
+    "KPWAKTVC": {
+        "origin": "KPWA",
+        "destination": "KTVC"
+    },
+    "KAPFKDTS": {
+        "origin": "KAPF",
+        "destination": "KDTS"
+    },
+    "KVNYKSAC": {
+        "origin": "KVNY",
+        "destination": "KSAC"
+    },
+    "KEGEKLAS": {
+        "origin": "KEGE",
+        "destination": "KLAS"
+    },
+    "KJWNKYNG": {
+        "origin": "KJWN",
+        "destination": "KYNG"
+    },
+    "KPTKKHYA": {
+        "origin": "KPTK",
+        "destination": "KHYA"
+    },
+    "KPIEKTPA": {
+        "origin": "KPIE",
+        "destination": "KTPA"
+    },
+    "KLGAKOXC": {
+        "origin": "KLGA",
+        "destination": "KOXC"
+    },
+    "KDTSKIXD": {
+        "origin": "KDTS",
+        "destination": "KIXD"
+    },
+    "KBLIKBGR": {
+        "origin": "KBLI",
+        "destination": "KBGR"
+    },
+    "KSAFKMEM": {
+        "origin": "KSAF",
+        "destination": "KMEM"
+    },
+    "KPHXKBOS": {
+        "origin": "KPHX",
+        "destination": "KBOS"
+    },
+    "KLMTKAFW": {
+        "origin": "KLMT",
+        "destination": "KAFW"
+    },
+    "KPHLKJWN": {
+        "origin": "KPHL",
+        "destination": "KJWN"
+    },
+    "KYNGKJWN": {
+        "origin": "KYNG",
+        "destination": "KJWN"
+    },
+    "KFTYKPWK": {
+        "origin": "KFTY",
+        "destination": "KPWK"
+    },
+    "KHOUKPWK": {
+        "origin": "KHOU",
+        "destination": "KPWK"
+    },
+    "KOXCKIND": {
+        "origin": "KOXC",
+        "destination": "KIND"
+    },
+    "KBEDKTVC": {
+        "origin": "KBED",
+        "destination": "KTVC"
+    },
+    "KBEDKMQS": {
+        "origin": "KBED",
+        "destination": "KMQS"
+    },
+    "KCONKACK": {
+        "origin": "KCON",
+        "destination": "KACK"
+    },
+    "KPWKKSAT": {
+        "origin": "KPWK",
+        "destination": "KSAT"
+    },
+    "KHYAKMDW": {
+        "origin": "KHYA",
+        "destination": "KMDW"
+    },
+    "KRMGKPBI": {
+        "origin": "KRMG",
+        "destination": "KPBI"
+    },
+    "KRILKASE": {
+        "origin": "KRIL",
+        "destination": "KASE"
+    },
+    "KLEXKPHL": {
+        "origin": "KLEX",
+        "destination": "KPHL"
+    },
+    "TISTKPBI": {
+        "origin": "TIST",
+        "destination": "KPBI"
+    },
+    "CYULKFOK": {
+        "origin": "CYUL",
+        "destination": "KFOK"
+    },
+    "KJWNKROC": {
+        "origin": "KJWN",
+        "destination": "KROC"
+    },
+    "KOMAKCYS": {
+        "origin": "KOMA",
+        "destination": "KCYS"
+    },
+    "KDALKLAX": {
+        "origin": "KDAL",
+        "destination": "KLAX"
+    },
+    "KACKKJZI": {
+        "origin": "KACK",
+        "destination": "KJZI"
+    },
+    "KEGEKSBA": {
+        "origin": "KEGE",
+        "destination": "KSBA"
+    },
+    "KBCTKORL": {
+        "origin": "KBCT",
+        "destination": "KORL"
+    },
+    "KEGEKSPS": {
+        "origin": "KEGE",
+        "destination": "KSPS"
+    },
+    "KTEBKASE": {
+        "origin": "KTEB",
+        "destination": "KASE"
+    },
+    "CYQAKPWK": {
+        "origin": "CYQA",
+        "destination": "KPWK"
+    },
+    "KUINKBNA": {
+        "origin": "KUIN",
+        "destination": "KBNA"
+    },
+    "KASEKAPA": {
+        "origin": "KASE",
+        "destination": "KAPA"
+    },
+    "KCOEKFLG": {
+        "origin": "KCOE",
+        "destination": "KFLG"
+    },
+    "KOKVKOPF": {
+        "origin": "KOKV",
+        "destination": "KOPF"
+    },
+    "KTVLKRNO": {
+        "origin": "KTVL",
+        "destination": "KRNO"
+    },
+    "KTEXKDAL": {
+        "origin": "KTEX",
+        "destination": "KDAL"
+    },
+    "KEGEKONT": {
+        "origin": "KEGE",
+        "destination": "KONT"
+    },
+    "KORLKGSP": {
+        "origin": "KORL",
+        "destination": "KGSP"
+    },
+    "KSJCKAUS": {
+        "origin": "KSJC",
+        "destination": "KAUS"
+    },
+    "KMSPKBRD": {
+        "origin": "KMSP",
+        "destination": "KBRD"
+    },
+    "KINDKPIT": {
+        "origin": "KIND",
+        "destination": "KPIT"
+    },
+    "KJACKAPA": {
+        "origin": "KJAC",
+        "destination": "KAPA"
+    },
+    "KTVCKBED": {
+        "origin": "KTVC",
+        "destination": "KBED"
+    },
+    "KMQSKACK": {
+        "origin": "KMQS",
+        "destination": "KACK"
+    },
+    "KMKCKSGR": {
+        "origin": "KMKC",
+        "destination": "KSGR"
+    },
+    "KPNSKTRI": {
+        "origin": "KPNS",
+        "destination": "KTRI"
+    },
+    "KTEBKORF": {
+        "origin": "KTEB",
+        "destination": "KORF"
+    },
+    "KPHLKPDK": {
+        "origin": "KPHL",
+        "destination": "KPDK"
+    },
+    "KJZIKDAB": {
+        "origin": "KJZI",
+        "destination": "KDAB"
+    },
+    "KMHRKGEU": {
+        "origin": "KMHR",
+        "destination": "KGEU"
+    },
+    "KPWKKRDU": {
+        "origin": "KPWK",
+        "destination": "KRDU"
+    },
+    "KYIPKDAL": {
+        "origin": "KYIP",
+        "destination": "KDAL"
+    },
+    "KPDKKDWH": {
+        "origin": "KPDK",
+        "destination": "KDWH"
+    },
+    "CYEGKBTV": {
+        "origin": "CYEG",
+        "destination": "KBTV"
+    },
+    "KPBIKMTN": {
+        "origin": "KPBI",
+        "destination": "KMTN"
+    },
+    "KEGEKOGD": {
+        "origin": "KEGE",
+        "destination": "KOGD"
+    },
+    "KAFWKBGR": {
+        "origin": "KAFW",
+        "destination": "KBGR"
+    },
+    "KCKVKSAT": {
+        "origin": "KCKV",
+        "destination": "KSAT"
+    },
+    "KSNAKHND": {
+        "origin": "KSNA",
+        "destination": "KHND"
+    },
+    "KJWNKSUS": {
+        "origin": "KJWN",
+        "destination": "KSUS"
+    },
+    "KSUSKPDK": {
+        "origin": "KSUS",
+        "destination": "KPDK"
+    },
+    "KMTJKASE": {
+        "origin": "KMTJ",
+        "destination": "KASE"
+    },
+    "KPWKKFTY": {
+        "origin": "KPWK",
+        "destination": "KFTY"
+    },
+    "KTRIKMHT": {
+        "origin": "KTRI",
+        "destination": "KMHT"
+    },
+    "KASEKSNA": {
+        "origin": "KASE",
+        "destination": "KSNA"
+    },
+    "KONTKSBA": {
+        "origin": "KONT",
+        "destination": "KSBA"
+    },
+    "CYULKPWM": {
+        "origin": "CYUL",
+        "destination": "KPWM"
+    },
+    "CYVRKBZN": {
+        "origin": "CYVR",
+        "destination": "KBZN"
+    },
+    "KMTNKHYA": {
+        "origin": "KMTN",
+        "destination": "KHYA"
+    },
+    "KAUSKAEX": {
+        "origin": "KAUS",
+        "destination": "KAEX"
+    },
+    "KPWMKACK": {
+        "origin": "KPWM",
+        "destination": "KACK"
+    },
+    "KMHTKFRG": {
+        "origin": "KMHT",
+        "destination": "KFRG"
+    },
+    "KMYLKPVU": {
+        "origin": "KMYL",
+        "destination": "KPVU"
+    },
+    "KSPSKAUS": {
+        "origin": "KSPS",
+        "destination": "KAUS"
+    },
+    "KIADKOCF": {
+        "origin": "KIAD",
+        "destination": "KOCF"
+    },
+    "KAPAKOKC": {
+        "origin": "KAPA",
+        "destination": "KOKC"
+    },
+    "KPHLKFOK": {
+        "origin": "KPHL",
+        "destination": "KFOK"
+    },
+    "KLASKTPA": {
+        "origin": "KLAS",
+        "destination": "KTPA"
+    },
+    "KHOUKLAS": {
+        "origin": "KHOU",
+        "destination": "KLAS"
+    },
+    "KTTNKBFI": {
+        "origin": "KTTN",
+        "destination": "KBFI"
+    },
+    "KPBIKCRQ": {
+        "origin": "KPBI",
+        "destination": "KCRQ"
+    },
+    "KSFOKFOK": {
+        "origin": "KSFO",
+        "destination": "KFOK"
+    },
+    "KSNAKSGF": {
+        "origin": "KSNA",
+        "destination": "KSGF"
+    },
+    "KRDUKCPP": {
+        "origin": "KRDU",
+        "destination": "KCPP"
+    },
+    "KDFWKSNA": {
+        "origin": "KDFW",
+        "destination": "KSNA"
+    },
+    "KBAZKDAL": {
+        "origin": "KBAZ",
+        "destination": "KDAL"
+    },
+    "KFOKKOQU": {
+        "origin": "KFOK",
+        "destination": "KOQU"
+    },
+    "KAOOKFXE": {
+        "origin": "KAOO",
+        "destination": "KFXE"
+    },
+    "KBWIKJQF": {
+        "origin": "KBWI",
+        "destination": "KJQF"
+    },
+    "KHUTKDAL": {
+        "origin": "KHUT",
+        "destination": "KDAL"
+    },
+    "KBWIKFOK": {
+        "origin": "KBWI",
+        "destination": "KFOK"
+    },
+    "KTEBKGON": {
+        "origin": "KTEB",
+        "destination": "KGON"
+    },
+    "KALBKAUG": {
+        "origin": "KALB",
+        "destination": "KAUG"
+    },
+    "KBTLKSUS": {
+        "origin": "KBTL",
+        "destination": "KSUS"
+    },
+    "KBFLKTUS": {
+        "origin": "KBFL",
+        "destination": "KTUS"
+    },
+    "KBEDKSYR": {
+        "origin": "KBED",
+        "destination": "KSYR"
+    },
+    "CYKFKFAR": {
+        "origin": "CYKF",
+        "destination": "KFAR"
+    },
+    "KHPNKLNK": {
+        "origin": "KHPN",
+        "destination": "KLNK"
+    },
+    "KPIEKORL": {
+        "origin": "KPIE",
+        "destination": "KORL"
+    },
+    "KSYRKMVY": {
+        "origin": "KSYR",
+        "destination": "KMVY"
+    },
+    "KJQFKAVP": {
+        "origin": "KJQF",
+        "destination": "KAVP"
+    },
+    "KIADKRHI": {
+        "origin": "KIAD",
+        "destination": "KRHI"
+    },
+    "KYIPKRYY": {
+        "origin": "KYIP",
+        "destination": "KRYY"
+    },
+    "KMKEKVGC": {
+        "origin": "KMKE",
+        "destination": "KVGC"
+    },
+    "KBGRKTYS": {
+        "origin": "KBGR",
+        "destination": "KTYS"
+    },
+    "KACYKBLM": {
+        "origin": "KACY",
+        "destination": "KBLM"
+    },
+    "KGPIKCOE": {
+        "origin": "KGPI",
+        "destination": "KCOE"
+    },
+    "KATWKHGR": {
+        "origin": "KATW",
+        "destination": "KHGR"
+    },
+    "KPDKKAPF": {
+        "origin": "KPDK",
+        "destination": "KAPF"
+    },
+    "KBLMKBFI": {
+        "origin": "KBLM",
+        "destination": "KBFI"
+    },
+    "KFARKMOT": {
+        "origin": "KFAR",
+        "destination": "KMOT"
+    },
+    "KEGEKFLG": {
+        "origin": "KEGE",
+        "destination": "KFLG"
+    },
+    "KFLDKPDK": {
+        "origin": "KFLD",
+        "destination": "KPDK"
+    },
+    "KPDKKHPN": {
+        "origin": "KPDK",
+        "destination": "KHPN"
+    },
+    "KRHIKABE": {
+        "origin": "KRHI",
+        "destination": "KABE"
+    },
+    "KAPFKBHM": {
+        "origin": "KAPF",
+        "destination": "KBHM"
+    },
+    "KHOUKCOE": {
+        "origin": "KHOU",
+        "destination": "KCOE"
+    },
+    "KSANKAUS": {
+        "origin": "KSAN",
+        "destination": "KAUS"
+    },
+    "MMANKIAD": {
+        "origin": "MMAN",
+        "destination": "KIAD"
+    },
+    "KHGRKMDW": {
+        "origin": "KHGR",
+        "destination": "KMDW"
+    },
+    "KSTSKHPN": {
+        "origin": "KSTS",
+        "destination": "KHPN"
+    },
+    "KMRYKMVY": {
+        "origin": "KMRY",
+        "destination": "KMVY"
+    },
+    "KAFWKPBI": {
+        "origin": "KAFW",
+        "destination": "KPBI"
+    },
+    "KIXAKRKD": {
+        "origin": "KIXA",
+        "destination": "KRKD"
+    },
+    "KAUSKCOS": {
+        "origin": "KAUS",
+        "destination": "KCOS"
+    },
+    "KLEXKSYR": {
+        "origin": "KLEX",
+        "destination": "KSYR"
+    },
+    "KBLMKACK": {
+        "origin": "KBLM",
+        "destination": "KACK"
+    },
+    "KTYSKDAL": {
+        "origin": "KTYS",
+        "destination": "KDAL"
+    },
+    "KLGBKOKC": {
+        "origin": "KLGB",
+        "destination": "KOKC"
+    },
+    "KLASKHIO": {
+        "origin": "KLAS",
+        "destination": "KHIO"
+    },
+    "KDALKLGB": {
+        "origin": "KDAL",
+        "destination": "KLGB"
+    },
+    "KFTYKSLC": {
+        "origin": "KFTY",
+        "destination": "KSLC"
+    },
+    "KSBAPLN": {
+        "origin": "KSBA",
+        "destination": "PLN"
+    },
+    "KSZTKPDX": {
+        "origin": "KSZT",
+        "destination": "KPDX"
+    },
+    "KBGRKJQF": {
+        "origin": "KBGR",
+        "destination": "KJQF"
+    },
+    "KFLGKCRQ": {
+        "origin": "KFLG",
+        "destination": "KCRQ"
+    },
+    "KVSFKMDW": {
+        "origin": "KVSF",
+        "destination": "KMDW"
+    },
+    "KAPAKJQF": {
+        "origin": "KAPA",
+        "destination": "KJQF"
+    },
+    "KDTWKBTL": {
+        "origin": "KDTW",
+        "destination": "KBTL"
+    },
+    "KBHMBHM": {
+        "origin": "KBHM",
+        "destination": "BHM"
+    },
+    "KCOEKPBI": {
+        "origin": "KCOE",
+        "destination": "KPBI"
+    },
+    "KLWBKTYS": {
+        "origin": "KLWB",
+        "destination": "KTYS"
+    },
+    "KMDWKPHX": {
+        "origin": "KMDW",
+        "destination": "KPHX"
+    },
+    "KMDWKPWM": {
+        "origin": "KMDW",
+        "destination": "KPWM"
+    },
+    "KTYSKCHS": {
+        "origin": "KTYS",
+        "destination": "KCHS"
+    },
+    "KRKDKTEB": {
+        "origin": "KRKD",
+        "destination": "KTEB"
+    },
+    "KLEBKPIT": {
+        "origin": "KLEB",
+        "destination": "KPIT"
+    },
+    "KTVLKSJC": {
+        "origin": "KTVL",
+        "destination": "KSJC"
+    },
+    "KSTSKFOK": {
+        "origin": "KSTS",
+        "destination": "KFOK"
+    },
+    "KVNYKPWK": {
+        "origin": "KVNY",
+        "destination": "KPWK"
+    },
+    "KSRQKEYW": {
+        "origin": "KSRQ",
+        "destination": "KEYW"
+    },
+    "KCOSKDAL": {
+        "origin": "KCOS",
+        "destination": "KDAL"
+    },
+    "KDALKMDD": {
+        "origin": "KDAL",
+        "destination": "KMDD"
+    },
+    "KEYWKBCT": {
+        "origin": "KEYW",
+        "destination": "KBCT"
+    },
+    "KMVYKSYR": {
+        "origin": "KMVY",
+        "destination": "KSYR"
+    },
+    "MBPVKILM": {
+        "origin": "MBPV",
+        "destination": "KILM"
+    },
+    "KTNUKPWK": {
+        "origin": "KTNU",
+        "destination": "KPWK"
+    },
+    "KSZTKSDL": {
+        "origin": "KSZT",
+        "destination": "KSDL"
+    },
+    "KSYRKBED": {
+        "origin": "KSYR",
+        "destination": "KBED"
+    },
+    "KBHBKCLE": {
+        "origin": "KBHB",
+        "destination": "KCLE"
+    },
+    "KSJCKSOP": {
+        "origin": "KSJC",
+        "destination": "KSOP"
+    },
+    "KHOTKDRT": {
+        "origin": "KHOT",
+        "destination": "KDRT"
+    },
+    "KVNYKSAT": {
+        "origin": "KVNY",
+        "destination": "KSAT"
+    },
+    "KSAAKOKC": {
+        "origin": "KSAA",
+        "destination": "KOKC"
+    },
+    "KPWKKXNA": {
+        "origin": "KPWK",
+        "destination": "KXNA"
+    },
+    "KIXAKFTY": {
+        "origin": "KIXA",
+        "destination": "KFTY"
+    },
+    "KGRBKTNU": {
+        "origin": "KGRB",
+        "destination": "KTNU"
+    },
+    "KCRQKSFO": {
+        "origin": "KCRQ",
+        "destination": "KSFO"
+    },
+    "KASEKFTY": {
+        "origin": "KASE",
+        "destination": "KFTY"
+    },
+    "KAVPKJQF": {
+        "origin": "KAVP",
+        "destination": "KJQF"
+    },
+    "KOPFKADS": {
+        "origin": "KOPF",
+        "destination": "KADS"
+    },
+    "KBFIKPVU": {
+        "origin": "KBFI",
+        "destination": "KPVU"
+    },
+    "KJQFKPBI": {
+        "origin": "KJQF",
+        "destination": "KPBI"
+    },
+    "KDRTKLIT": {
+        "origin": "KDRT",
+        "destination": "KLIT"
+    },
+    "KBFIKFAT": {
+        "origin": "KBFI",
+        "destination": "KFAT"
+    },
+    "KSLCKHND": {
+        "origin": "KSLC",
+        "destination": "KHND"
+    },
+    "KRYYKYIP": {
+        "origin": "KRYY",
+        "destination": "KYIP"
+    },
+    "KFXEKTUL": {
+        "origin": "KFXE",
+        "destination": "KTUL"
+    },
+    "KGUCKEGE": {
+        "origin": "KGUC",
+        "destination": "KEGE"
+    },
+    "KFOKKOPF": {
+        "origin": "KFOK",
+        "destination": "KOPF"
+    },
+    "KPVUPRC": {
+        "origin": "KPVU",
+        "destination": "PRC"
+    },
+    "KPWKKDAL": {
+        "origin": "KPWK",
+        "destination": "KDAL"
+    },
+    "KFOKKBED": {
+        "origin": "KFOK",
+        "destination": "KBED"
+    },
+    "CYQXKHOU": {
+        "origin": "CYQX",
+        "destination": "KHOU"
+    },
+    "KTNUKPBI": {
+        "origin": "KTNU",
+        "destination": "KPBI"
+    },
+    "CYQBKTEB": {
+        "origin": "CYQB",
+        "destination": "KTEB"
+    },
+    "KVGCKMKE": {
+        "origin": "KVGC",
+        "destination": "KMKE"
+    },
+    "KTIWKBFI": {
+        "origin": "KTIW",
+        "destination": "KBFI"
+    },
+    "BIKFKIAD": {
+        "origin": "BIKF",
+        "destination": "KIAD"
+    },
+    "CZMTKTIW": {
+        "origin": "CZMT",
+        "destination": "KTIW"
+    },
+    "KDTWKJQF": {
+        "origin": "KDTW",
+        "destination": "KJQF"
+    },
+    "KSNAKPDK": {
+        "origin": "KSNA",
+        "destination": "KPDK"
+    },
+    "KRDMKLAX": {
+        "origin": "KRDM",
+        "destination": "KLAX"
+    },
+    "KLEBKAPF": {
+        "origin": "KLEB",
+        "destination": "KAPF"
+    },
+    "KTEBKSFZ": {
+        "origin": "KTEB",
+        "destination": "KSFZ"
+    },
+    "KACKKMVY": {
+        "origin": "KACK",
+        "destination": "KMVY"
+    },
+    "KPWMKAVL": {
+        "origin": "KPWM",
+        "destination": "KAVL"
+    },
+    "KIADKBJC": {
+        "origin": "KIAD",
+        "destination": "KBJC"
+    },
+    "KPITKPBI": {
+        "origin": "KPIT",
+        "destination": "KPBI"
+    },
+    "KCXYKMVY": {
+        "origin": "KCXY",
+        "destination": "KMVY"
+    },
+    "KSLCKFTY": {
+        "origin": "KSLC",
+        "destination": "KFTY"
+    },
+    "KAVLKPTK": {
+        "origin": "KAVL",
+        "destination": "KPTK"
+    },
+    "TJRVKTEB": {
+        "origin": "TJRV",
+        "destination": "KTEB"
+    },
+    "KOMAKDSM": {
+        "origin": "KOMA",
+        "destination": "KDSM"
+    },
+    "KPBIKCPS": {
+        "origin": "KPBI",
+        "destination": "KCPS"
+    },
+    "KFXEKASE": {
+        "origin": "KFXE",
+        "destination": "KASE"
+    },
+    "KTMBKSTP": {
+        "origin": "KTMB",
+        "destination": "KSTP"
+    },
+    "KTEBKSFM": {
+        "origin": "KTEB",
+        "destination": "KSFM"
+    },
+    "KFTYKBKW": {
+        "origin": "KFTY",
+        "destination": "KBKW"
+    },
+    "KADSAEX": {
+        "origin": "KADS",
+        "destination": "AEX"
+    },
+    "KLASKBNA": {
+        "origin": "KLAS",
+        "destination": "KBNA"
+    },
+    "KMEMKCVX": {
+        "origin": "KMEM",
+        "destination": "KCVX"
+    },
+    "KPLNKCHA": {
+        "origin": "KPLN",
+        "destination": "KCHA"
+    },
+    "KHOUKROW": {
+        "origin": "KHOU",
+        "destination": "KROW"
+    },
+    "KPDKKOLV": {
+        "origin": "KPDK",
+        "destination": "KOLV"
+    },
+    "KEQYKHOU": {
+        "origin": "KEQY",
+        "destination": "KHOU"
+    },
+    "KMDWKFOK": {
+        "origin": "KMDW",
+        "destination": "KFOK"
+    },
+    "KFWAKIAD": {
+        "origin": "KFWA",
+        "destination": "KIAD"
+    },
+    "KSOPKTEB": {
+        "origin": "KSOP",
+        "destination": "KTEB"
+    },
+    "KAPFKDAB": {
+        "origin": "KAPF",
+        "destination": "KDAB"
+    },
+    "KOMAKPHF": {
+        "origin": "KOMA",
+        "destination": "KPHF"
+    },
+    "KHKYKFXE": {
+        "origin": "KHKY",
+        "destination": "KFXE"
+    },
+    "KDTWKPAE": {
+        "origin": "KDTW",
+        "destination": "KPAE"
+    },
+    "KPDKKLNS": {
+        "origin": "KPDK",
+        "destination": "KLNS"
+    },
+    "KSWFKPIE": {
+        "origin": "KSWF",
+        "destination": "KPIE"
+    },
+    "KSUNKTEB": {
+        "origin": "KSUN",
+        "destination": "KTEB"
+    },
+    "KSDMKCMA": {
+        "origin": "KSDM",
+        "destination": "KCMA"
+    },
+    "KRDUKPIA": {
+        "origin": "KRDU",
+        "destination": "KPIA"
+    },
+    "KSFOKHIO": {
+        "origin": "KSFO",
+        "destination": "KHIO"
+    },
+    "KPAEKICT": {
+        "origin": "KPAE",
+        "destination": "KICT"
+    },
+    "KAEXEGE": {
+        "origin": "KAEX",
+        "destination": "EGE"
+    },
+    "KBKWKFTY": {
+        "origin": "KBKW",
+        "destination": "KFTY"
+    },
+    "KACKKPSF": {
+        "origin": "KACK",
+        "destination": "KPSF"
+    },
+    "KSFMKHPN": {
+        "origin": "KSFM",
+        "destination": "KHPN"
+    },
+    "KGPIKDAL": {
+        "origin": "KGPI",
+        "destination": "KDAL"
+    },
+    "KBEDKBJC": {
+        "origin": "KBED",
+        "destination": "KBJC"
+    },
+    "KLEXKHYA": {
+        "origin": "KLEX",
+        "destination": "KHYA"
+    },
+    "KSNAKMJX": {
+        "origin": "KSNA",
+        "destination": "KMJX"
+    },
+    "KBFIKNEW": {
+        "origin": "KBFI",
+        "destination": "KNEW"
+    },
+    "TJIGKPDK": {
+        "origin": "TJIG",
+        "destination": "KPDK"
+    },
+    "KMKLKTYS": {
+        "origin": "KMKL",
+        "destination": "KTYS"
+    },
+    "KCVXKMEM": {
+        "origin": "KCVX",
+        "destination": "KMEM"
+    },
+    "KROWKADS": {
+        "origin": "KROW",
+        "destination": "KADS"
+    },
+    "KMCCKBFI": {
+        "origin": "KMCC",
+        "destination": "KBFI"
+    },
+    "KCMAKSAN": {
+        "origin": "KCMA",
+        "destination": "KSAN"
+    },
+    "KCVXKJWN": {
+        "origin": "KCVX",
+        "destination": "KJWN"
+    },
+    "KCHAKUGN": {
+        "origin": "KCHA",
+        "destination": "KUGN"
+    },
+    "KRILKIAD": {
+        "origin": "KRIL",
+        "destination": "KIAD"
+    },
+    "KEGEKSAT": {
+        "origin": "KEGE",
+        "destination": "KSAT"
+    },
+    "KBFIKGPI": {
+        "origin": "KBFI",
+        "destination": "KGPI"
+    },
+    "MYNNKLAS": {
+        "origin": "MYNN",
+        "destination": "KLAS"
+    },
+    "KADSKOXC": {
+        "origin": "KADS",
+        "destination": "KOXC"
+    },
+    "CYYGKDAL": {
+        "origin": "CYYG",
+        "destination": "KDAL"
+    },
+    "KFNLKSUS": {
+        "origin": "KFNL",
+        "destination": "KSUS"
+    },
+    "KDABKEYW": {
+        "origin": "KDAB",
+        "destination": "KEYW"
+    },
+    "KIADKBKW": {
+        "origin": "KIAD",
+        "destination": "KBKW"
+    },
+    "KOLVKCPS": {
+        "origin": "KOLV",
+        "destination": "KCPS"
+    },
+    "KILGKOXC": {
+        "origin": "KILG",
+        "destination": "KOXC"
+    },
+    "KCOEKVNY": {
+        "origin": "KCOE",
+        "destination": "KVNY"
+    },
+    "KSLKKDAL": {
+        "origin": "KSLK",
+        "destination": "KDAL"
+    },
+    "KAGSKDAL": {
+        "origin": "KAGS",
+        "destination": "KDAL"
+    },
+    "KPHFKBKW": {
+        "origin": "KPHF",
+        "destination": "KBKW"
+    },
+    "KADSKHOU": {
+        "origin": "KADS",
+        "destination": "KHOU"
+    },
+    "KFXEKIUA": {
+        "origin": "KFXE",
+        "destination": "KIUA"
+    },
+    "KPIEKSWF": {
+        "origin": "KPIE",
+        "destination": "KSWF"
+    },
+    "KRNOKTVL": {
+        "origin": "KRNO",
+        "destination": "KTVL"
+    },
+    "KHIOKSAN": {
+        "origin": "KHIO",
+        "destination": "KSAN"
+    },
+    "KLBFKSJC": {
+        "origin": "KLBF",
+        "destination": "KSJC"
+    },
+    "KFOKKACK": {
+        "origin": "KFOK",
+        "destination": "KACK"
+    },
+    "KSATKLAS": {
+        "origin": "KSAT",
+        "destination": "KLAS"
+    },
+    "KEYWKPBI": {
+        "origin": "KEYW",
+        "destination": "KPBI"
+    },
+    "KSUSKISM": {
+        "origin": "KSUS",
+        "destination": "KISM"
+    },
+    "KJACKTPA": {
+        "origin": "KJAC",
+        "destination": "KTPA"
+    },
+    "KBJCKSFO": {
+        "origin": "KBJC",
+        "destination": "KSFO"
+    },
+    "KUGNKVNY": {
+        "origin": "KUGN",
+        "destination": "KVNY"
+    },
+    "KLCIKMVY": {
+        "origin": "KLCI",
+        "destination": "KMVY"
+    },
+    "KBEDKOXC": {
+        "origin": "KBED",
+        "destination": "KOXC"
+    },
+    "KOKCKCOS": {
+        "origin": "KOKC",
+        "destination": "KCOS"
+    },
+    "KSJCKBJC": {
+        "origin": "KSJC",
+        "destination": "KBJC"
+    },
+    "KOPFKLEX": {
+        "origin": "KOPF",
+        "destination": "KLEX"
+    },
+    "KBHMKAPF": {
+        "origin": "KBHM",
+        "destination": "KAPF"
+    },
+    "KMVYKCXY": {
+        "origin": "KMVY",
+        "destination": "KCXY"
+    },
+    "KCPSKDPA": {
+        "origin": "KCPS",
+        "destination": "KDPA"
+    },
+    "KBKWKATL": {
+        "origin": "KBKW",
+        "destination": "KATL"
+    },
+    "KISMKPDK": {
+        "origin": "KISM",
+        "destination": "KPDK"
+    },
+    "KPDKKDVK": {
+        "origin": "KPDK",
+        "destination": "KDVK"
+    },
+    "KCOSKOKC": {
+        "origin": "KCOS",
+        "destination": "KOKC"
+    },
+    "KBKWKPDK": {
+        "origin": "KBKW",
+        "destination": "KPDK"
+    },
+    "KPSFKBED": {
+        "origin": "KPSF",
+        "destination": "KBED"
+    },
+    "KSTSKBED": {
+        "origin": "KSTS",
+        "destination": "KBED"
+    },
+    "KADSKCAE": {
+        "origin": "KADS",
+        "destination": "KCAE"
+    },
+    "KLNSKALB": {
+        "origin": "KLNS",
+        "destination": "KALB"
+    },
+    "KCIDKBDL": {
+        "origin": "KCID",
+        "destination": "KBDL"
+    },
+    "KPBITXKF": {
+        "origin": "KPBI",
+        "destination": "TXKF"
+    },
+    "KUESKAUS": {
+        "origin": "KUES",
+        "destination": "KAUS"
+    },
+    "CYYZKFTY": {
+        "origin": "CYYZ",
+        "destination": "KFTY"
+    },
+    "KHOUKOQU": {
+        "origin": "KHOU",
+        "destination": "KOQU"
+    },
+    "KEGEKFXE": {
+        "origin": "KEGE",
+        "destination": "KFXE"
+    },
+    "KERVKASE": {
+        "origin": "KERV",
+        "destination": "KASE"
+    },
+    "KATLKCLT": {
+        "origin": "KATL",
+        "destination": "KCLT"
+    },
+    "KLAFKBMG": {
+        "origin": "KLAF",
+        "destination": "KBMG"
+    },
+    "KPITKBOS": {
+        "origin": "KPIT",
+        "destination": "KBOS"
+    },
+    "KFOKKIAD": {
+        "origin": "KFOK",
+        "destination": "KIAD"
+    },
+    "KTTNKSOP": {
+        "origin": "KTTN",
+        "destination": "KSOP"
+    },
+    "KPDKKMDT": {
+        "origin": "KPDK",
+        "destination": "KMDT"
+    },
+    "KEKOKBJC": {
+        "origin": "KEKO",
+        "destination": "KBJC"
+    },
+    "KSTLKLGA": {
+        "origin": "KSTL",
+        "destination": "KLGA"
+    },
+    "KIUAKFMY": {
+        "origin": "KIUA",
+        "destination": "KFMY"
+    },
+    "KMDTKFNL": {
+        "origin": "KMDT",
+        "destination": "KFNL"
+    },
+    "KHPNKPDK": {
+        "origin": "KHPN",
+        "destination": "KPDK"
+    },
+    "KSSIKFTY": {
+        "origin": "KSSI",
+        "destination": "KFTY"
+    },
+    "KOPFKDVN": {
+        "origin": "KOPF",
+        "destination": "KDVN"
+    },
+    "KSJCKSAC": {
+        "origin": "KSJC",
+        "destination": "KSAC"
+    },
+    "KLASKMDW": {
+        "origin": "KLAS",
+        "destination": "KMDW"
+    },
+    "KBJCKAUS": {
+        "origin": "KBJC",
+        "destination": "KAUS"
+    },
+    "KMKCKLZU": {
+        "origin": "KMKC",
+        "destination": "KLZU"
+    },
+    "KVNYKLCI": {
+        "origin": "KVNY",
+        "destination": "KLCI"
+    },
+    "KJZIKACK": {
+        "origin": "KJZI",
+        "destination": "KACK"
+    },
+    "KDABKJZI": {
+        "origin": "KDAB",
+        "destination": "KJZI"
+    },
+    "KMTJKSDL": {
+        "origin": "KMTJ",
+        "destination": "KSDL"
+    },
+    "MYENKOPF": {
+        "origin": "MYEN",
+        "destination": "KOPF"
+    },
+    "KADSKBBG": {
+        "origin": "KADS",
+        "destination": "KBBG"
+    },
+    "KFTYKSNA": {
+        "origin": "KFTY",
+        "destination": "KSNA"
+    },
+    "KMKLKDTO": {
+        "origin": "KMKL",
+        "destination": "KDTO"
+    },
+    "KGPIKARA": {
+        "origin": "KGPI",
+        "destination": "KARA"
+    },
+    "KICTKBFI": {
+        "origin": "KICT",
+        "destination": "KBFI"
+    },
+    "KHOUKEQY": {
+        "origin": "KHOU",
+        "destination": "KEQY"
+    },
+    "KLGAKTEB": {
+        "origin": "KLGA",
+        "destination": "KTEB"
+    },
+    "KHOUKGLS": {
+        "origin": "KHOU",
+        "destination": "KGLS"
+    },
+    "KCYSPIT": {
+        "origin": "KCYS",
+        "destination": "PIT"
+    },
+    "KCNOKSJC": {
+        "origin": "KCNO",
+        "destination": "KSJC"
+    },
+    "KFMYKFXE": {
+        "origin": "KFMY",
+        "destination": "KFXE"
+    },
+    "KONTKBFL": {
+        "origin": "KONT",
+        "destination": "KBFL"
+    },
+    "KPBIKCLT": {
+        "origin": "KPBI",
+        "destination": "KCLT"
+    },
+    "KFTYKALB": {
+        "origin": "KFTY",
+        "destination": "KALB"
+    },
+    "KAPAKGJT": {
+        "origin": "KAPA",
+        "destination": "KGJT"
+    },
+    "KBGRKPSP": {
+        "origin": "KBGR",
+        "destination": "KPSP"
+    },
+    "KFOKKMDW": {
+        "origin": "KFOK",
+        "destination": "KMDW"
+    },
+    "KEDCKCRQ": {
+        "origin": "KEDC",
+        "destination": "KCRQ"
+    },
+    "KLEWKGYY": {
+        "origin": "KLEW",
+        "destination": "KGYY"
+    },
+    "KPDKKBED": {
+        "origin": "KPDK",
+        "destination": "KBED"
+    },
+    "KMKEKCAK": {
+        "origin": "KMKE",
+        "destination": "KCAK"
+    },
+    "KSRRKABQ": {
+        "origin": "KSRR",
+        "destination": "KABQ"
+    },
+    "KALBKGVQ": {
+        "origin": "KALB",
+        "destination": "KGVQ"
+    },
+    "KOQUKMGR": {
+        "origin": "KOQU",
+        "destination": "KMGR"
+    },
+    "KSNAKBUR": {
+        "origin": "KSNA",
+        "destination": "KBUR"
+    },
+    "KSUNKLGB": {
+        "origin": "KSUN",
+        "destination": "KLGB"
+    },
+    "KLZUKFLG": {
+        "origin": "KLZU",
+        "destination": "KFLG"
+    },
+    "KPTKKMSN": {
+        "origin": "KPTK",
+        "destination": "KMSN"
+    },
+    "KLASKSBA": {
+        "origin": "KLAS",
+        "destination": "KSBA"
+    },
+    "CYQSKPTK": {
+        "origin": "CYQS",
+        "destination": "KPTK"
+    },
+    "KPTKKATW": {
+        "origin": "KPTK",
+        "destination": "KATW"
+    },
+    "KSFOKIAD": {
+        "origin": "KSFO",
+        "destination": "KIAD"
+    },
+    "KCAEKILM": {
+        "origin": "KCAE",
+        "destination": "KILM"
+    },
+    "KDVNKROC": {
+        "origin": "KDVN",
+        "destination": "KROC"
+    },
+    "KBURKBNA": {
+        "origin": "KBUR",
+        "destination": "KBNA"
+    },
+    "KMSPKMVY": {
+        "origin": "KMSP",
+        "destination": "KMVY"
+    },
+    "KJACKHOU": {
+        "origin": "KJAC",
+        "destination": "KHOU"
+    },
+    "KBJCKAFW": {
+        "origin": "KBJC",
+        "destination": "KAFW"
+    },
+    "KBFLKSCK": {
+        "origin": "KBFL",
+        "destination": "KSCK"
+    },
+    "KSCKKFAT": {
+        "origin": "KSCK",
+        "destination": "KFAT"
+    },
+    "KSACKAPA": {
+        "origin": "KSAC",
+        "destination": "KAPA"
+    },
+    "KTEBKDEN": {
+        "origin": "KTEB",
+        "destination": "KDEN"
+    },
+    "KPWMKIAD": {
+        "origin": "KPWM",
+        "destination": "KIAD"
+    },
+    "KOLVKVNY": {
+        "origin": "KOLV",
+        "destination": "KVNY"
+    },
+    "KCLEKMDW": {
+        "origin": "KCLE",
+        "destination": "KMDW"
+    },
+    "KFNLKGSO": {
+        "origin": "KFNL",
+        "destination": "KGSO"
+    },
+    "KSUNKBGR": {
+        "origin": "KSUN",
+        "destination": "KBGR"
+    },
+    "KARAKRYY": {
+        "origin": "KARA",
+        "destination": "KRYY"
+    },
+    "KACKKCON": {
+        "origin": "KACK",
+        "destination": "KCON"
+    },
+    "KAUSKUES": {
+        "origin": "KAUS",
+        "destination": "KUES"
+    },
+    "KSBPKSJC": {
+        "origin": "KSBP",
+        "destination": "KSJC"
+    },
+    "KCONKEVB": {
+        "origin": "KCON",
+        "destination": "KEVB"
+    },
+    "CYOWKPBI": {
+        "origin": "CYOW",
+        "destination": "KPBI"
+    },
+    "KPITKTEB": {
+        "origin": "KPIT",
+        "destination": "KTEB"
+    },
+    "KDVKKPDK": {
+        "origin": "KDVK",
+        "destination": "KPDK"
+    },
+    "KSOPKTTN": {
+        "origin": "KSOP",
+        "destination": "KTTN"
+    },
+    "KIADKHGR": {
+        "origin": "KIAD",
+        "destination": "KHGR"
+    },
+    "KTEBKASH": {
+        "origin": "KTEB",
+        "destination": "KASH"
+    },
+    "KEVBKTMB": {
+        "origin": "KEVB",
+        "destination": "KTMB"
+    },
+    "KABQKCNO": {
+        "origin": "KABQ",
+        "destination": "KCNO"
+    },
+    "CYYZKCMH": {
+        "origin": "CYYZ",
+        "destination": "KCMH"
+    },
+    "KBEDKMDW": {
+        "origin": "KBED",
+        "destination": "KMDW"
+    },
+    "KBMGKLAF": {
+        "origin": "KBMG",
+        "destination": "KLAF"
+    },
+    "KGUCKDTO": {
+        "origin": "KGUC",
+        "destination": "KDTO"
+    },
+    "KHGRKATW": {
+        "origin": "KHGR",
+        "destination": "KATW"
+    },
+    "KFXEKABQ": {
+        "origin": "KFXE",
+        "destination": "KABQ"
+    },
+    "KLASKGPI": {
+        "origin": "KLAS",
+        "destination": "KGPI"
+    },
+    "KVNYKATW": {
+        "origin": "KVNY",
+        "destination": "KATW"
+    },
+    "KGPIKOMA": {
+        "origin": "KGPI",
+        "destination": "KOMA"
+    },
+    "KBEDKCMH": {
+        "origin": "KBED",
+        "destination": "KCMH"
+    },
+    "TXKFKILG": {
+        "origin": "TXKF",
+        "destination": "KILG"
+    },
+    "KPTKKOXR": {
+        "origin": "KPTK",
+        "destination": "KOXR"
+    },
+    "KGLSKDFW": {
+        "origin": "KGLS",
+        "destination": "KDFW"
+    },
+    "EINNKBOS": {
+        "origin": "EINN",
+        "destination": "KBOS"
+    },
+    "KCAKKAFW": {
+        "origin": "KCAK",
+        "destination": "KAFW"
+    },
+    "KBMIKOPF": {
+        "origin": "KBMI",
+        "destination": "KOPF"
+    },
+    "KAFWKAPG": {
+        "origin": "KAFW",
+        "destination": "KAPG"
+    },
+    "KTTNKBTL": {
+        "origin": "KTTN",
+        "destination": "KBTL"
+    },
+    "KBGRKBHB": {
+        "origin": "KBGR",
+        "destination": "KBHB"
+    },
+    "KCLTKISM": {
+        "origin": "KCLT",
+        "destination": "KISM"
+    },
+    "KPDKKUZA": {
+        "origin": "KPDK",
+        "destination": "KUZA"
+    },
+    "KACKKDPA": {
+        "origin": "KACK",
+        "destination": "KDPA"
+    },
+    "KASHKRKD": {
+        "origin": "KASH",
+        "destination": "KRKD"
+    },
+    "KGEGKCMA": {
+        "origin": "KGEG",
+        "destination": "KCMA"
+    },
+    "KPSKKIAD": {
+        "origin": "KPSK",
+        "destination": "KIAD"
+    },
+    "KTYSKORL": {
+        "origin": "KTYS",
+        "destination": "KORL"
+    },
+    "KBHBKLAL": {
+        "origin": "KBHB",
+        "destination": "KLAL"
+    },
+    "KAPAKPDK": {
+        "origin": "KAPA",
+        "destination": "KPDK"
+    },
+    "KSUNKSDF": {
+        "origin": "KSUN",
+        "destination": "KSDF"
+    },
+    "KHOUKTYR": {
+        "origin": "KHOU",
+        "destination": "KTYR"
+    },
+    "KSLCKPDX": {
+        "origin": "KSLC",
+        "destination": "KPDX"
+    },
+    "KFXETXKF": {
+        "origin": "KFXE",
+        "destination": "TXKF"
+    },
+    "KMKCKASE": {
+        "origin": "KMKC",
+        "destination": "KASE"
+    },
+    "KTXKKSTL": {
+        "origin": "KTXK",
+        "destination": "KSTL"
+    },
+    "KASEKMKC": {
+        "origin": "KASE",
+        "destination": "KMKC"
+    },
+    "KROCKBWI": {
+        "origin": "KROC",
+        "destination": "KBWI"
+    },
+    "KRKDKUGN": {
+        "origin": "KRKD",
+        "destination": "KUGN"
+    },
+    "KOPFMYEN": {
+        "origin": "KOPF",
+        "destination": "MYEN"
+    },
+    "KTYRKEDC": {
+        "origin": "KTYR",
+        "destination": "KEDC"
+    },
+    "KCRQKDVT": {
+        "origin": "KCRQ",
+        "destination": "KDVT"
+    },
+    "KCLTKACK": {
+        "origin": "KCLT",
+        "destination": "KACK"
+    },
+    "KCMHKAPA": {
+        "origin": "KCMH",
+        "destination": "KAPA"
+    },
+    "KAPAKAUS": {
+        "origin": "KAPA",
+        "destination": "KAUS"
+    },
+    "KMSNKBDL": {
+        "origin": "KMSN",
+        "destination": "KBDL"
+    },
+    "KSTLKMKC": {
+        "origin": "KSTL",
+        "destination": "KMKC"
+    },
+    "KPBITIST": {
+        "origin": "KPBI",
+        "destination": "TIST"
+    },
+    "KFXEKCMA": {
+        "origin": "KFXE",
+        "destination": "KCMA"
+    },
+    "KRYYKGPI": {
+        "origin": "KRYY",
+        "destination": "KGPI"
+    },
+    "KOPFKBMI": {
+        "origin": "KOPF",
+        "destination": "KBMI"
+    },
+    "KUZAKPDK": {
+        "origin": "KUZA",
+        "destination": "KPDK"
+    },
+    "KVRBKEWR": {
+        "origin": "KVRB",
+        "destination": "KEWR"
+    },
+    "KTEBKVRB": {
+        "origin": "KTEB",
+        "destination": "KVRB"
+    },
+    "KEWRKBED": {
+        "origin": "KEWR",
+        "destination": "KBED"
+    },
+    "KHOBKMAF": {
+        "origin": "KHOB",
+        "destination": "KMAF"
+    },
+    "KBHMKPBI": {
+        "origin": "KBHM",
+        "destination": "KPBI"
+    },
+    "KMSPKPTK": {
+        "origin": "KMSP",
+        "destination": "KPTK"
     }
 }
